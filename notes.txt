@@ -1,0 +1,84 @@
+Proposed structure for Homepage:
+Sign Up and Learn more buttons need to be in the Tab Bar.  Where they are right now feels like we are trying to force people to sign up.
+
+Tabs will depend on the different pages we want.
+HOME, ONGOING, SERIES LIST, MOVIES, FORUM, GENRES, RANDOM SERIES, REQUEST A SERIES, FACEBOOK, TWITTER
+Some of these tabs may not be necessary.  I would like forums but some streaming sites do not have them.  Random series tab would be optional.  Genres seems like something we should have but could be optional.  Facebook and twitter could probably be small icons or something.  Request a series could be a link at the bottom of page with other "helpful links"
+
+Anime title is fine centered.  With the homepage background, it would look best that way.  Under the title, we need a brief introduction and maybe say something about the site, like our goal or something.
+"Welcome to SITENAME.  We are a free streaming site that encourages member participation.  If you want to know more, just ask."
+
+Under the introduction, we could begin the list (centered) for the new ongoing anime releases (ongoing only).  The length of the list is negotiable but probably want at least last 10 episodes. 
+
+Keeping this stuff centered shows of the background better.
+
+As we get closer to the bottom of the page:
+We could add a small section for:  Newly submitted series, newly submitted episodes (probably for the older series only), and the normal stuff (like legal disclaimer and affiliates and helpful links).
+agaric1 - Yesterday at 12:05 PM
+Proposed structure for Ranks and Levels for members.  It is very early to know how this will go but here is a framework I had developed for another site.  Maybe just use as a reference:
+System for rankings and titles.
+These can be done with text only. No images needed.  It's similar to what other sites have used.
+
+Admin-Should be allowed a personalized sub status.
+Quality Control-Quality Control 1, 2, Super.
+Moderator (or Mod)-Moderator 1, 2, Super.
+Staff (or Linker)-Staff 1, 2, 3, Super.
+Uploader-Uploader 1, 2, 3, Super.
+Member-Member 1, 2, 3, no limit
+
+Super is the highest level.  We need to decide if we want it to be like a "supervisor" for the group or not.  Some groups will have Super but not really need a Supervisor.
+
+Some groups have more levels.  I feel that more levels help to encourage more activity.  We could have level 5 if you wanted and higher levels might be good.  We will need to figure out the point levels at which they level up.  This applies to QC and Uploaders.
+
+Some groups will level up with consideration of "time served" so to speak.  Just for example, maybe with regular activity they would level up every 6 months.  May need different time for different groups.  This applies to Mods and Members.
+
+**Multiple titles should be allowed.  For example, if you are Quality Control, Staff (or linker), and a Mod.
+Example:
+Admin
+Quality Control 2
+Staff 3
+Moderator Super
+Member 3
+This would appear under the avatar listed exactly as you see it in the example.
+
+Forum Ranks:
+We could just have a good old reliable rank by how many posts you have.  We would need to figure out the numbers at which members level up.
+What names should go to the ranks?
+We could use random terms from Japanese culture and stuff.  Oniisama, bento, kitsune, pantsu, etc...
+We could use random anime characters.
+We could use anime characters from a specific anime IF we changed this every 6 months and used characters from a different anime to keep it fresh.
+We could use the names of anime series.  We could have some really crappy animes for the first few levels.
+January 1, 2018
+agaric1 - Today at 9:15 AM
+Noticed some of the stuff I mentioned for Homepage is already on the video player page (bottom of page stuff).  So it should be easy to add to homepage as well?
+Flame1029 - Today at 3:35 PM
+how about topanime.tv
+
+
+
+
+https://animesamplesite.000webhostapp.com/anime-news
+
+
+
+MEMBER
+- can request anime
+- can add anime mirrors
+
+STAFF
+- can request anime
+- can add anime mirrors
+- can approve request anime
+
+QUALITY CONTROL
+
+- can request anime
+- can add anime mirrors
+- can approve request anime
+
+ADMIN
+- can do all this stuff 
+
+
+868367652
+1247.31
