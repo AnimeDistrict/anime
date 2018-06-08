@@ -1,0 +1,255 @@
+body{
+    /*#21252b*/
+    background-color: #cacaca;
+}
+a{
+    color: white;
+
+}
+ a:hover{
+    color: #607d8b;
+}
+form  a{
+    color: black;
+
+}
+form   a:hover{
+    color: #607d8b;
+}
+#sitemap h6
+{
+    color: black !important;
+}
+#sitemap a {
+    color: blue !important;
+}
+#sitemap a {
+    color: #607d8b !important;
+}
+.footer  a{
+    color: black;
+
+}
+.footer   a:hover{
+    color: #607d8b;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+}
+#listcolumn {
+	/*your fixed height*/
+    -webkit-column-count: 6;
+       -moz-column-count: 6;
+            column-count: 6; /*3 in those rules is just placeholder -- can be anything*/
+            -webkit-column-rule-style: solid;
+  -moz-column-rule-style: solid;
+  -o-column-rule-style: solid;
+  -ms-column-rule-style: solid;
+  column-rule-style:  solid;
+}
+
+#listcolumn li {
+    /*display: inline-block; */
+    /*necessary*/
+   /* margin: 5px;*/
+}
+#listcolumn li:hover > a:hover {
+
+	background-color: #EF6C00;
+	color: white;
+	
+
+}
+.studio_link  a{
+	color: #607d8b;
+}
+.studio_link  a:hover{
+	color: white;
+}
+#hoverrr li:hover > a:hover{
+		background-color: #EF6C00;
+	color: white;
+}
+
+.status{
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: #eee;
+    font-size: .9rem;
+    line-height: 20px;
+    font-weight: 400;
+    font-family: "Nunito Sans",sans-serif;
+    overflow: hidden;
+}
+ .status .ep {
+    position: relative;
+    float: left;
+    z-index: 2;
+    padding: 0 3px 0 5px;
+    border-bottom: 20px solid #5C6BC0;
+    border-right: 10px solid transparent;
+    height: 0;
+}
+
+
+.status .movie{
+    float: right;
+    padding: 0 1px;
+    font-size: .7rem;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    border-bottom: 20px solid #f44336;
+    border-left: 10px solid transparent;
+    height: 0;
+    z-index: 2;
+}
+.status .movie:after {
+    position: absolute;
+    content: "";
+    right: -10px;
+    border-top: 20px solid #f44336;
+    border-left: 0 solid transparent;
+    border-right: 10px solid transparent;
+    height: 0;
+}
+
+.status .dub{
+    float: center;
+    padding-top: 20px;
+    font-size: .7rem;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    border-bottom: 20px solid #673ab7;
+   
+    height: 0;
+    z-index: 2;
+}
+
+.status .preview {
+    float: right;
+    padding: 0 1px;
+    font-size: .7rem;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    border-bottom: 20px solid #d16300;
+    border-left: 10px solid transparent;
+    height: 0;
+    z-index: 2;
+}
+.status .preview:after {
+    position: absolute;
+    content: "";
+    right: -10px;
+    border-top: 20px solid #d16300;
+    border-left: 0 solid transparent;
+    border-right: 10px solid transparent;
+    height: 0;
+}
+.status .series {
+    float: right;
+    padding: 0 1px;
+    font-size: .7rem;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    border-bottom: 20px solid #2196f3;
+    border-left: 10px solid transparent;
+    height: 0;
+    z-index: 2;
+}
+.status .series:after {
+    position: absolute;
+    content: "";
+    right: -10px;
+    border-top: 20px solid #2196f3;
+    border-left: 0 solid transparent;
+    border-right: 10px solid transparent;
+    height: 0;
+}
+.status .special {
+    float: right;
+    padding: 0 1px;
+    font-size: .7rem;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    border-bottom: 20px solid #2196f3;
+    border-left: 10px solid transparent;
+    height: 0;
+    z-index: 2;
+}
+.status .special:after {
+    position: absolute;
+    content: "";
+    right: -10px;
+    border-top: 20px solid #2196f3;
+    border-left: 0 solid transparent;
+    border-right: 10px solid transparent;
+    height: 0;
+}
+
+.status .ona {
+    float: right;
+    padding: 0 1px;
+    font-size: .7rem;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    border-bottom: 20px solid #4caf50;
+    border-left: 10px solid transparent;
+    height: 0;
+    z-index: 2;
+}
+.status .ona:after {
+    position: absolute;
+    content: "";
+    right: -10px;
+    border-top: 20px solid #4caf50;
+    border-left: 0 solid transparent;
+    border-right: 10px solid transparent;
+    height: 0;
+}
+.status .ova {
+    float: right;
+    padding: 0 1px;
+    font-size: .7rem;
+    text-transform: uppercase;
+    color: #fff;
+    position: relative;
+    border-bottom: 20px solid #26a69a;
+    border-left: 10px solid transparent;
+    height: 0;
+    z-index: 2;
+}
+.status .ova:after {
+    position: absolute;
+    content: "";
+    right: -10px;
+    border-top: 20px solid #26a69a;
+    border-left: 0 solid transparent;
+    border-right: 10px solid transparent;
+    height: 0;
+}
+.thumbnail{
+	background-color: #121923;
+
+	
+}
+.text-semibold{
+	color: white !important;
+}
+.label-striped {
+    background-color: #333333;
+    color: #f5f5f5;
+}
+
+img.flag {
+    width: 30px;
+}
