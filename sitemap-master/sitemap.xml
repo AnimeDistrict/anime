@@ -1,0 +1,53 @@
+<!--  generator="SimpleSitemapGenerator/1.2.0"  -->
+<!--
+ sitemap-generator-url="http://www.antczak.org"
+                          sitemap-generator-version="1.2.0" 
+-->
+<!--  generated-on="2018-02-13T14:27:10+01:00"  -->
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+<loc>localhost/brgy/</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>localhost/brgy/page1</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+<url>
+<loc>localhost/brgy/page2</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+<changefreq>daily</changefreq>
+</url>
+<url>
+<loc>localhost/brgy/page3</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+</url>
+<url>
+<loc>localhost/brgy/page4</loc>
+</url>
+<url>
+<loc>localhost/brgy/admin</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.4</priority>
+</url>
+<url>
+<loc>localhost/brgy/admin/subpage1</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+<changefreq>daily</changefreq>
+</url>
+<url>
+<loc>localhost/brgy/admin/subpage2</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+<changefreq>daily</changefreq>
+</url>
+<url>
+<loc>localhost/brgy/admin/subpage3</loc>
+<lastmod>2018-02-13T14:27:10+01:00</lastmod>
+<changefreq>daily</changefreq>
+</url>
+</urlset>
